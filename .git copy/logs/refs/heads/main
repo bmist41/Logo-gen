@@ -1,3 +1,0 @@
-0000000000000000000000000000000000000000 e20995039bec14ff45153ffcc9bac0e60384cb52 Bear M <bear.mistele@gmail.com> 1718070101 -0700	clone: from https://github.com/bmist41/Logo-generator-M10.git
-e20995039bec14ff45153ffcc9bac0e60384cb52 993ec4d3b27a324f104060e46584d4336008a960 Bear M <bear.mistele@gmail.com> 1718074229 -0700	commit: Adding the functioning logo generator, unit testing is still not passing
-993ec4d3b27a324f104060e46584d4336008a960 00f36b9c90e15ad24e7dc5d57c96be4316a1bb7d Bear M <bear.mistele@gmail.com> 1718076692 -0700	commit: Demo included in readme

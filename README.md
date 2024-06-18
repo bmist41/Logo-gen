@@ -7,7 +7,6 @@
     
 
 ## Description
-This is a node-based program that generates an SVG logo based on user input into the command line. It utilizes [Inquirer](https://www.npmjs.com/package/inquirer/v/8.2.4) for input collection, and [Jest](https://www.npmjs.com/package/jest) for unit testing.
 
 The program allows the user to input a 3 character text, a color, and a shape. For the shape, the user can pick between a triangle, circle, and square.
 

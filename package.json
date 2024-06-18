@@ -14,9 +14,11 @@
       "type": "git",
       "url": "git+https://github.com/bmist41/Logo-gen.git"
     },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
+    "keywords": [
+      "logo",
+      "svg",
+      "node.js"
+    ],
     
     "dependencies": {
       "gitignore": "^0.7.0",
